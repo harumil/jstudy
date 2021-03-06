@@ -17,7 +17,6 @@ body{
 }
 a {
   text-decoration:none;
-
   color:black;
 }
 ul {
@@ -73,5 +72,6 @@ ul {
       padding-top:9px;
       font-size:30px;
     }
+
   }
 }
